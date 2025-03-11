@@ -5,8 +5,7 @@ export default function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              I am more of a contract type of employee, am a smart hardworker
-              working at 100% efficiency. I am available..
+          Hi, I'm Newton Kipkurui Kimutai, a dedicated software developer with a strong foundation in Python, JavaScript, and modern web development frameworks like React, Flask, and Django. I graduated from Moringa School, where I focused on both front-end and back-end development, and I am eager to take on new challenges in the world of software engineering. 
             </p>
           </div>
   
@@ -19,25 +18,23 @@ export default function About() {
               />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3>UI/UX Designer &amp; Web Developer.</h3>
+              <h3>Frontend &amp; Backend Developer.</h3>
               <p className="fst-italic">
-                Am a website developer and designer. I create websites from
-                scratch according to the client specifications. I design all
-                types of websites; business, entertainment etc.
+              I specialize in creating dynamic, scalable web applications and enjoy working across the full stack—from designing user interfaces with React to building efficient back-end systems with Flask and Django. My expertise also extends to database management using SQL and MongoDB, and I'm experienced with version control tools like Git. I'm passionate about solving complex problems, collaborating with teams, and continuously learning to grow as a developer.
               </p>
               <div className="row">
                 <div className="col-lg-6">
                   <ul>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>Birthday:</strong> <span>11 March 1999</span>
+                      <strong>Birthday:</strong> <span>12 March 1999</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
                       <strong>Website:</strong>{" "}
                       <span>
-                        <a href="https://www.kiruicorp.com" target="_blank" rel="noreferrer">
-                          www.kiruicorp.com
+                        <a href="#" target="_blank" rel="noreferrer">
+                          coming soon...!
                         </a>
                       </span>
                     </li>
@@ -47,16 +44,16 @@ export default function About() {
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>City:</strong> <span>Nakuru City, Kenya</span>
+                      <strong>City:</strong> <span>Nairobi City, Kenya</span>
                     </li>
                   </ul>
                 </div>
                 <div className="col-lg-6">
                   <ul>
-                    <li>
+                    {/* <li>
                       <i className="bi bi-chevron-right"></i>{" "}
                       <strong>Age:</strong> <span>23</span>
-                    </li>
+                    </li> */}
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
                       <strong>Email:</strong>{" "}
@@ -70,8 +67,7 @@ export default function About() {
                 </div>
               </div>
               <p>
-                This is me inspired, ready to work for you. I am a man of God, and
-                integrity is what drives me.
+              As someone driven by integrity and faith, I believe in delivering high-quality software solutions that meet client needs. Let's connect and see how I can help bring your ideas to life!
               </p>
             </div>
           </div>

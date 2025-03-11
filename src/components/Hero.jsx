@@ -4,7 +4,7 @@ export default function Hero() {
         <div className="container" data-aos="zoom-in" data-aos-delay="100">
           <h1>Newton Kipkurui</h1>
           <p>
-            I'm a{" "}
+            I'm a{" Software Developer "}
             <span
               className="typed"
               data-typed-items="Designer, Developer, Freelancer, Quantity Surveyor, Trader, Drummer"

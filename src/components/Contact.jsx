@@ -37,6 +37,9 @@ const ContactSection = () => {
       <div className="container" data-aos="fade-up">
         <div className="section-title">
           <h2>Contact</h2>
+          <p>
+            Feel free to get in touch with me for any inquiries. I am ready to collaborate on your projects.
+          </p>
         </div>
 
         <div className="row mt-1">
@@ -45,7 +48,7 @@ const ContactSection = () => {
               <div className="address">
                 <i className="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Nakuru 44 Kenya</p>
+                <p>Nakuru City, Kenya</p>
               </div>
 
               <div className="email">
@@ -56,7 +59,7 @@ const ContactSection = () => {
 
               <div className="phone">
                 <i className="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4>Phone:</h4>
                 <p>+254 743 604 267</p>
               </div>
             </div>
